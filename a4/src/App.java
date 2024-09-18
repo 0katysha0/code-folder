@@ -14,5 +14,12 @@ public class App {
         System.out.println("       (       -----)           ");
         System.out.println("       (            )           ");
         System.out.println("        W||wwwwww||W        ");
+        System.out.println("                        ");
+        System.out.println("                        ");
+        System.out.println("                        ");
+        System.out.println("                        ");
+        System.out.println("                        ");
+        System.out.println("                        ");
+       
     }
 }
