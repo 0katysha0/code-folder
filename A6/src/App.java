@@ -6,6 +6,10 @@ public class App {
         // Project Description: Write the code to print the number of chicken wings you can buy 
         // if you have $4.75 and they cost $0.75 each. Remember that you can’t buy part of a wing.
         
-        System.out.println(  );
+    double totalMoney = 4.75; 
+    double wingCoast = 0.75;
+
+    int numberOfwings = (int)(totalMoney/wingCoast);
+    System.out.println("You can buy " + numberOfwings + " chicken wings.");
     }
 }
