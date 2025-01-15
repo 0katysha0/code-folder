@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class Input {
 
     public static void main(String[] args) {
+        // Kate Lozova
+        // Input Basics
+        // October 1 2024
+        // Project Description: Define, input, and print some variables and their values.
         Scanner keyboard = new Scanner(System.in);
 
         int intOne, intTwo;
