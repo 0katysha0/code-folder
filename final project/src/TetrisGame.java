@@ -1,3 +1,10 @@
+
+
+// Tetris Game 
+// Group members: Kate Lozova and Zlata Kapustyan 
+// Game description: The game consists of a grid where blocks fall from the top, and the player can move them horizontally or downwards to complete rows (use arrows to control). 
+//Completed rows are cleared, and the player earns points. The game ends when the grid is filled up to the top and givimh you message "game over".
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
